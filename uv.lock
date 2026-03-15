@@ -863,7 +863,7 @@ wheels = [
 ]
 
 [[package]]
-name = "noel-asr"
+name = "simple-asr"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

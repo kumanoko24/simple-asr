@@ -1,5 +1,5 @@
 [project]
-name = "noel-asr"
+name = "simple-asr"
 version = "0.1.0"
 description = "Voice-to-text CLI using Qwen3-ASR on Apple Silicon"
 readme = "README.md"
