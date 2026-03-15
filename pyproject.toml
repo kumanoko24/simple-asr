@@ -1,0 +1,13 @@
+[project]
+name = "noel-asr"
+version = "0.1.0"
+description = "Voice-to-text CLI using Qwen3-ASR on Apple Silicon"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "qwen-asr",
+    "sounddevice",
+    "numpy",
+    "torch",
+    "opencc>=1.2.0",
+]
